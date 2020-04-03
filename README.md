@@ -1,6 +1,6 @@
 # DEPARA
 
-- [*"DEPARA : Deep Attribution Graph for Deep Knowledge Transferbility"*](https:), CVPR 2020(oral).(released soon)
+- [*"DEPARA : Deep Attribution Graph for Deep Knowledge Transferbility"*](https://arxiv.org/abs/2003.07496), CVPR 2020(oral).
 
 ![](fig/illus.png)
 
